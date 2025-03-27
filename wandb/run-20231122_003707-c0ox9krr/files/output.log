@@ -1,0 +1,188 @@
+
+  0%|          | 0/73 [00:00<?, ?it/s]/home/fuyali/miniconda3/envs/gpt2/lib/python3.10/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+  1%|▏         | 1/73 [00:13<16:06, 13.43s/it]
+{'loss': 3.7657, 'learning_rate': 4.9315068493150684e-05, 'epoch': 0.01}
+
+  3%|▎         | 2/73 [00:17<09:42,  8.20s/it]
+
+
+  5%|▌         | 4/73 [00:27<06:36,  5.75s/it]
+
+  7%|▋         | 5/73 [00:31<06:01,  5.31s/it]
+{'loss': 3.5566, 'learning_rate': 4.657534246575342e-05, 'epoch': 0.07}
+
+  8%|▊         | 6/73 [00:36<05:38,  5.05s/it]
+
+
+ 11%|█         | 8/73 [00:45<05:10,  4.78s/it]
+
+ 12%|█▏        | 9/73 [00:49<05:01,  4.70s/it]
+{'loss': 3.4438, 'learning_rate': 4.383561643835617e-05, 'epoch': 0.12}
+
+ 14%|█▎        | 10/73 [00:54<04:53,  4.66s/it]
+
+
+ 16%|█▋        | 12/73 [01:03<04:41,  4.61s/it]
+
+ 18%|█▊        | 13/73 [01:08<04:35,  4.59s/it]
+{'loss': 3.4032, 'learning_rate': 4.1095890410958905e-05, 'epoch': 0.18}
+
+
+ 21%|██        | 15/73 [01:17<04:25,  4.57s/it]
+
+ 22%|██▏       | 16/73 [01:21<04:20,  4.57s/it]
+{'loss': 3.313, 'learning_rate': 3.904109589041096e-05, 'epoch': 0.22}
+
+ 23%|██▎       | 17/73 [01:26<04:15,  4.57s/it]
+
+
+ 26%|██▌       | 19/73 [01:35<04:06,  4.56s/it]
+
+ 27%|██▋       | 20/73 [01:39<04:02,  4.57s/it]
+{'loss': 3.3106, 'learning_rate': 3.63013698630137e-05, 'epoch': 0.27}
+
+
+ 30%|███       | 22/73 [01:49<03:52,  4.56s/it]
+
+ 32%|███▏      | 23/73 [01:53<03:47,  4.56s/it]
+{'loss': 3.3822, 'learning_rate': 3.424657534246575e-05, 'epoch': 0.32}
+
+ 33%|███▎      | 24/73 [01:58<03:43,  4.56s/it]
+
+
+ 36%|███▌      | 26/73 [02:07<03:34,  4.56s/it]
+
+ 37%|███▋      | 27/73 [02:11<03:29,  4.56s/it]
+{'loss': 3.3762, 'learning_rate': 3.1506849315068496e-05, 'epoch': 0.37}
+
+ 38%|███▊      | 28/73 [02:16<03:25,  4.56s/it]
+
+
+ 41%|████      | 30/73 [02:25<03:16,  4.57s/it]
+{'loss': 3.3479, 'learning_rate': 2.945205479452055e-05, 'epoch': 0.41}
+
+ 42%|████▏     | 31/73 [02:30<03:11,  4.57s/it]
+
+
+ 45%|████▌     | 33/73 [02:39<03:02,  4.56s/it]
+
+ 47%|████▋     | 34/73 [02:43<02:57,  4.56s/it]
+{'loss': 3.3312, 'learning_rate': 2.671232876712329e-05, 'epoch': 0.47}
+
+ 48%|████▊     | 35/73 [02:48<02:53,  4.57s/it]
+
+
+ 51%|█████     | 37/73 [02:57<02:44,  4.57s/it]
+{'loss': 3.3733, 'learning_rate': 2.4657534246575342e-05, 'epoch': 0.51}
+
+ 52%|█████▏    | 38/73 [03:02<02:41,  4.61s/it]
+
+
+ 55%|█████▍    | 40/73 [03:11<02:31,  4.58s/it]
+
+ 56%|█████▌    | 41/73 [03:15<02:26,  4.57s/it]
+{'loss': 3.2407, 'learning_rate': 2.1917808219178083e-05, 'epoch': 0.56}
+
+ 58%|█████▊    | 42/73 [03:20<02:21,  4.57s/it]
+
+
+ 60%|██████    | 44/73 [03:29<02:12,  4.57s/it]
+
+ 62%|██████▏   | 45/73 [03:34<02:07,  4.57s/it]
+{'loss': 3.3595, 'learning_rate': 1.9178082191780822e-05, 'epoch': 0.62}
+
+
+ 64%|██████▍   | 47/73 [03:43<01:58,  4.57s/it]
+
+ 66%|██████▌   | 48/73 [03:47<01:54,  4.56s/it]
+{'loss': 3.2753, 'learning_rate': 1.7123287671232875e-05, 'epoch': 0.66}
+
+ 67%|██████▋   | 49/73 [03:52<01:49,  4.56s/it]
+
+
+ 70%|██████▉   | 51/73 [04:01<01:40,  4.57s/it]
+
+ 71%|███████   | 52/73 [04:06<01:35,  4.57s/it]
+{'loss': 3.2877, 'learning_rate': 1.4383561643835617e-05, 'epoch': 0.71}
+
+
+ 74%|███████▍  | 54/73 [04:15<01:26,  4.57s/it]
+
+ 75%|███████▌  | 55/73 [04:19<01:22,  4.56s/it]
+{'loss': 3.2754, 'learning_rate': 1.2328767123287671e-05, 'epoch': 0.75}
+
+ 77%|███████▋  | 56/73 [04:24<01:17,  4.56s/it]
+
+
+ 79%|███████▉  | 58/73 [04:33<01:08,  4.56s/it]
+
+ 81%|████████  | 59/73 [04:38<01:03,  4.57s/it]
+{'loss': 3.2888, 'learning_rate': 9.589041095890411e-06, 'epoch': 0.81}
+
+ 82%|████████▏ | 60/73 [04:42<00:59,  4.57s/it]
+
+
+ 85%|████████▍ | 62/73 [04:51<00:50,  4.56s/it]
+
+ 86%|████████▋ | 63/73 [04:56<00:45,  4.56s/it]
+{'loss': 3.2328, 'learning_rate': 6.849315068493151e-06, 'epoch': 0.86}
+
+
+ 89%|████████▉ | 65/73 [05:05<00:36,  4.57s/it]
+
+ 90%|█████████ | 66/73 [05:10<00:31,  4.56s/it]
+{'loss': 3.1722, 'learning_rate': 4.7945205479452054e-06, 'epoch': 0.9}
+
+ 92%|█████████▏| 67/73 [05:14<00:27,  4.56s/it]
+
+
+ 95%|█████████▍| 69/73 [05:23<00:18,  4.57s/it]
+
+ 96%|█████████▌| 70/73 [05:28<00:13,  4.56s/it]
+{'loss': 3.26, 'learning_rate': 2.054794520547945e-06, 'epoch': 0.96}
+
+
+ 99%|█████████▊| 72/73 [05:37<00:04,  4.56s/it]
+100%|██████████| 73/73 [05:39<00:00,  3.79s/it][INFO|trainer.py:1955] 2023-11-22 00:42:52,792 >>
+Training completed. Do not forget to share your model on huggingface.co/models =)
+100%|██████████| 73/73 [05:39<00:00,  4.65s/it]
+[INFO|trainer.py:2881] 2023-11-22 00:42:52,794 >> Saving model checkpoint to ./checkpoints
+[INFO|configuration_utils.py:461] 2023-11-22 00:42:52,797 >> Configuration saved in ./checkpoints/config.json
+[INFO|configuration_utils.py:564] 2023-11-22 00:42:52,798 >> Configuration saved in ./checkpoints/generation_config.json
+[INFO|modeling_utils.py:2193] 2023-11-22 00:42:53,574 >> Model weights saved in ./checkpoints/pytorch_model.bin
+[INFO|tokenization_utils_base.py:2428] 2023-11-22 00:42:53,576 >> tokenizer config file saved in ./checkpoints/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2437] 2023-11-22 00:42:53,577 >> Special tokens file saved in ./checkpoints/special_tokens_map.json
+[INFO|trainer.py:3158] 2023-11-22 00:42:53,638 >> ***** Running Evaluation *****
+[INFO|trainer.py:3160] 2023-11-22 00:42:53,638 >>   Num examples = 240
+[INFO|trainer.py:3163] 2023-11-22 00:42:53,638 >>   Batch size = 32
+{'loss': 3.2126, 'learning_rate': 0.0, 'epoch': 1.0}
+{'train_runtime': 346.9028, 'train_samples_per_second': 6.682, 'train_steps_per_second': 0.21, 'train_loss': 3.33542156872684, 'epoch': 1.0}
+***** train metrics *****
+  epoch                    =        1.0
+  train_loss               =     3.3354
+  train_runtime            = 0:05:46.90
+  train_samples            =       2318
+  train_samples_per_second =      6.682
+  train_steps_per_second   =       0.21
+11/22/2023 00:42:53 - INFO - __main__ - *** Evaluate ***
+/home/fuyali/miniconda3/envs/gpt2/lib/python3.10/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+
+
+
+
+
+
+
+100%|██████████| 8/8 [00:25<00:00,  3.18s/it]
+***** eval metrics *****
+  epoch                   =        1.0
+  eval_accuracy           =      0.414
+  eval_loss               =     3.1272
+  eval_runtime            = 0:00:30.43
+  eval_samples            =        240
+  eval_samples_per_second =      7.885
+  eval_steps_per_second   =      0.263
+
+100%|██████████| 8/8 [00:26<00:00,  3.31s/it]
